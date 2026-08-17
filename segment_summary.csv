@@ -1,0 +1,5 @@
+tier,customer_count,pct_of_customers,tier_revenue,pct_of_revenue,avg_spend_per_customer
+Champion,152,25.4,82288805.32,41.8,541373.72
+Loyal,227,37.9,81615531.87,41.4,359539.79
+At Risk,182,30.4,30585918.9,15.5,168054.5
+Lost / Low Value,38,6.3,2435586.59,1.2,64094.38
